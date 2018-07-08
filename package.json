@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "private": true,
-  "repository": "wtgtybhertgeghgtwtg/scripts",
+  "repository": "tigefa4u/scripts",
   "scripts": {
     "lint": "eslint .",
     "test": "jest"
